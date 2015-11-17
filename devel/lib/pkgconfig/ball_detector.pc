@@ -1,0 +1,8 @@
+prefix=/home/hoang/Lab3_ws/devel
+
+Name: ball_detector
+Description: Description of ball_detector
+Version: 0.0.0
+Cflags: -I/home/hoang/Lab3_ws/devel/include
+Libs: -L/home/hoang/Lab3_ws/devel/lib 
+Requires: message_runtime

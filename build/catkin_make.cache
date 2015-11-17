@@ -1,0 +1,2 @@
+ball_detector:landmark_self_sim
+-DCATKIN_DEVEL_PREFIX=/home/hoang/Lab3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hoang/Lab3_ws/install -G Unix Makefiles
